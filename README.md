@@ -1,9 +1,9 @@
 # ¡Hola! Soy Irais 👋 | QA Automation Engineer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irais-mart%C3%ADnez-lemus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irais-martinez-lemus/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALI-creator-ls)
 
-Especialista en **Aseguramiento de Calidad de Software (QA)** enfocada en la automatización de pruebas API, validación de arquitecturas backend y diseño de estrategias de prueba eficientes. Apasionada por identificar riesgos de manera temprana, optimizar la cobertura de pruebas y asegurar la entrega de software confiable y escalable.
+Especialista en **Aseguramiento de Calidad de Software (QA)** enfocado en la automatización de pruebas API, validación de arquitecturas backend y diseño de estrategias de prueba eficientes. Apasionada por identificar riesgos de manera temprana, optimizar la cobertura de pruebas y asegurar la entrega de software confiable y escalable.
 
 ---
 
@@ -54,6 +54,6 @@ Aquí encontrarás una selección intencional de mis proyectos más representati
 
 ## 📬 Contacto
 
-* **LinkedIn:** [Irais Martínez Lemus](https://www.linkedin.com/in/irais-martinez-lemus)
+* **LinkedIn:** [Irais Martínez Lemus](https://www.linkedin.com/in/irais-martinez-lemus/)
 * **Correo:** [lemair44@yahoo.com.mx](mailto:lemair44@yahoo.com.mx)
-* **Ubicación:** México 
+* **Ubicación:** México
