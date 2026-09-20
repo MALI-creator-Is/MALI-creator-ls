@@ -1,7 +1,6 @@
 # ¡Hola! Soy Irais 👋 | QA Automation Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irais-martinez-lemus/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALI-creator-ls)
 
 https://github.com/MALI-creator-Is
 
@@ -14,7 +13,8 @@ Especialista en **Aseguramiento de Calidad de Software (QA)** enfocado en la aut
 
 Aquí encontrarás una selección intencional de mis proyectos más representativos en automatización y pruebas de software:
 
-### 1. 🛒 [Urban Grocers API Test Suite](https://github.com/MALI-creator-ls/qa-project-Urban-Grocers-app-es)
+### 1. 🛒 https://github.com/MALI-creator-ls/qa-project-Urban-Grocers-app-es
+Urban Grocers API Test Suite]
 > **Automatización de Pruebas API REST & Validación de Borde**
 * **Descripción:** Diseñé e implementé una suite automatizada para verificar los servicios backend de la plataforma Urban Grocers. La suite valida la generación de tokens de autenticación (`authToken`) y aplica técnicas de *Boundary Testing* para la creación de kits de usuario.
 * **Tecnologías:** Python 3, Pytest, Requests, REST API, Git.
