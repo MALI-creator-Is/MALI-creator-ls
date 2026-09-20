@@ -24,7 +24,8 @@ https://github.com/MALI-creator-Is/qa-project-Urban-Grocers-app-es
 
 ---
 
-### 2. 🚖 [Urban Routes QA Automation](https://github.com/MALI-creator-ls/qa-project-Urban-Routes-es)
+### 2. 🚖 Urban Routes QA Automation
+https://github.com/MALI-creator-Is/qa-project-Urban-Routes-es
 > **Automatización End-to-End con Page Object Model**
 * **Descripción:** Proyecto enfocado en la automatización de flujos de usuario integrales para la aplicación Urban Routes, aplicando buenas prácticas de diseño de software de pruebas.
 * **Tecnologías:** Python, Pytest, Page Object Model (POM), Selenium / Requests.
