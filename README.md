@@ -27,7 +27,7 @@ Aquí encontrarás una selección intencional de mis proyectos más representati
 
 ---
 
-### 3. ⚙️ [API Stand Tests] (https://github.com/MALI-creator-ls/api_stand_tests)
+### 3. ⚙️ [API Stand Tests](https://github.com/MALI-creator-ls/api_stand_tests)
 > **Pruebas Funcionales y de Integración Backend**
 * **Descripción:** Suite de pruebas para validar la comunicación de servicios en entornos de integración (Stand), verificando códigos de estado HTTP, contratos API y tiempos de respuesta.
 * **Tecnologías:** Python, Requests, Pytest.
