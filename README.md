@@ -3,6 +3,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irais-martinez-lemus/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MALI-creator-ls)
 
+https://github.com/MALI-creator-Is
+
+
 Especialista en **Aseguramiento de Calidad de Software (QA)** enfocado en la automatización de pruebas API, validación de arquitecturas backend y diseño de estrategias de prueba eficientes. Apasionada por identificar riesgos de manera temprana, optimizar la cobertura de pruebas y asegurar la entrega de software confiable y escalable.
 
 ---
