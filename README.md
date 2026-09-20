@@ -7,7 +7,7 @@ Especialista en **Aseguramiento de Calidad de Software (QA)** enfocada en la aut
 
 ---
 
-## 🎯 Portafolio de Proyectos Destacados ("Empieza Aquí")
+## 🎯 Portafolio de Proyectos Destacados 
 
 Aquí encontrarás una selección intencional de mis proyectos más representativos en automatización y pruebas de software:
 
