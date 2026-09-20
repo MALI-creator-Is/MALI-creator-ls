@@ -13,11 +13,10 @@ Especialista en **Aseguramiento de Calidad de Software (QA)** enfocado en la aut
 
 Aquí encontrarás una selección intencional de mis proyectos más representativos en automatización y pruebas de software:
 
-### 1. 🛒 https://github.com/MALI-creator-ls/qa-project-Urban-Grocers-app-es
-
+### 1. 🛒Urban Grocers API Test Suite
 https://github.com/MALI-creator-Is/qa-project-Urban-Grocers-app-es
 
-Urban Grocers API Test Suite]
+
 > **Automatización de Pruebas API REST & Validación de Borde**
 * **Descripción:** Diseñé e implementé una suite automatizada para verificar los servicios backend de la plataforma Urban Grocers. La suite valida la generación de tokens de autenticación (`authToken`) y aplica técnicas de *Boundary Testing* para la creación de kits de usuario.
 * **Tecnologías:** Python 3, Pytest, Requests, REST API, Git.
